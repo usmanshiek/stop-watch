@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgba(63,128,148,0.7),rgba(63,148,113,0.3));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.main{
+    margin: auto;
+    margin-top: 90px;
+    width: 450px;
+}
+#title{
+    background: black;
+    color: cornsilk;
+    font-size: 50px;
+    /* text-align: center; */
+}
+h1{
+    color: #000;
+    display: inline-block;
+    width: 100px;
+    background-color: #fff;
+    ;
+}
+button{
+    font-size: 30px;
+    margin: 0;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    background: black;
+    color: cornsilk;
+    border: none;
+    outline: none;
+
+}
+button:hover{
+    color: black;
+    background: cornsilk;
+}
